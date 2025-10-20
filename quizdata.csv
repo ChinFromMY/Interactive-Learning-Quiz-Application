@@ -1,0 +1,41 @@
+﻿topic,type,No,question,choice1,choice2,choice3,choice4,answer
+1,fill_in_blank,1,"Deepfake technology is a type of __________ used to create fake but realistic images, videos, and audio recordings.",,,,,artificial intelligence
+1,fill_in_blank,2,The term “deepfake” is a combination of the words “deep learning” and __________.,,,,,fake
+1,fill_in_blank,3,Deepfakes commonly use two algorithms: the __________ and the discriminator.,,,,,generator
+1,fill_in_blank,4,The __________ algorithm evaluates how realistic the generated content is and points out errors.,,,,,discriminator
+1,fill_in_blank,5,"Together, the generator and discriminator algorithms form a __________.",,,,,generative adversarial network (GAN)
+1,fill_in_blank,6,"In the entertainment industry, deepfakes are used to manipulate actors’ __________ in scenes that are hard to shoot.",,,,,voices
+1,fill_in_blank,7,Deepfakes are illegal only if they violate existing laws such as __________ or defamation.,,,,,child pornography
+1,fill_in_blank,8,Some education platforms use deepfake technology to develop AI __________ that provide personalized support to students.,,,,,tutors
+1,fill_in_blank,9,The generator creates a deepfake by analyzing and mimicking patterns found in __________ media samples.,,,,,real
+1,fill_in_blank,10,The deepfake creation process continues in a loop until the discriminator finds no more __________.,,,,,inconsistencies
+2,true_false,1,Deepfakes can often be identified by mismatched lip movements that don’t align with the audio.,TRUE,FALSE,,,TRUE
+2,true_false,2,Zooming in on a deepfake video never reveals visual inconsistencies.,TRUE,FALSE,,,FALSE
+2,true_false,3,A monotone or robotic voice in a video can be a sign of deepfake audio.,TRUE,FALSE,,,TRUE
+2,true_false,4,Unnatural blinking or lack of blinking is one way to detect a deepfake.,TRUE,FALSE,,,TRUE
+2,true_false,5,A perfectly synced voice with facial movement guarantees the video is real.,TRUE,FALSE,,,FALSE
+2,true_false,6,Manual checks such as slowing down a video can help spot deepfake glitches.,TRUE,FALSE,,,TRUE
+2,true_false,7,Misspellings and awkward sentence structure can indicate a deepfake-generated email or message.,TRUE,FALSE,,,TRUE
+2,true_false,8,A suspicious email address claiming to be from a well-known company is always safe to trust.,TRUE,FALSE,,,FALSE
+2,true_false,9,Using reverse image or video search can help verify the authenticity of media content.,TRUE,FALSE,,,TRUE
+2,true_false,10,Reporting suspicious content is not necessary since deepfakes can’t cause real harm.,TRUE,FALSE,,,FALSE
+3,matching,1,A CEO loses a major business deal after a fake video shows them making racist remarks.,,,,,A. Reputation Damage
+3,matching,2,A woman develops severe anxiety after a deepfake porn video of her circulates online.,,,,,D. Mental Health Issues
+3,matching,3,A man is wrongfully arrested because a deepfake placed him at a crime scene.,,,,,B. Legal Troubles
+3,matching,4,A politician loses an election after a manipulated speech goes viral.,,,,,A. Reputation Damage
+3,matching,5,A victim of deepfake revenge porn faces online harassment and attempts suicide. ,,,,,D. Mental Health Issues
+3,matching,6,"A grandmother sends $10,000 to a scammer who cloned her grandson’s voice.",,,,,E. Financial Loss
+3,matching,7,"A victim spends $50,000 on lawyers to prove a viral video is fake. ",,,,,E. Financial Loss
+3,matching,8,Friends abandon a person after believing a deepfake showed them betraying a secret.,,,,,C. Social Consequences
+3,matching,9,A deepfake causes a couple to divorce after one believes the other cheated.,,,,,C. Social Consequences
+3,matching,10,"People accuse a victim of ""seeking attention"" after they deny a deepfake’s authenticity.",,,,,F. Victim Blaming
+4,mcq,1,What is the first step a deepfake victim should take?,A. Ignore the situation,B. Speak out and inform trusted people,C. Create another deepfake in return,D. Delete all social media accounts,B
+4,mcq,2,Which of the following is a cybercrime reporting channel?,A. Weather apps,B. Local police cybercrime units,C. Food delivery hotline,D. Music streaming platforms,B
+4,mcq,3,Which is a correct prevention step?,A. Sharing all photos publicly,B. Ignoring privacy settings,C. Attending digital literacy workshops,D. Clicking all links in emails,C
+4,mcq,4,Which feature helps protect your online accounts?,A. Turning off Wi-Fi,B. Two-factor authentication (2FA),C. Posting your password online,D. Disabling notifications,B
+4,mcq,5,What does Microsoft’s deepfake detection tool provide?,A. Internet speed test,B. Confidence score of media manipulation,C. Blood pressure reading,D. Facial recognition unlocking,B
+4,mcq,6,What is the function of Intel’s FakeCatcher?,A. Analyzes blood flow variations in pixels,B. Detects voice tones,C. Captures malware,D. Removes watermarks,A
+4,mcq,7,What should you do before believing a sensational video?,A. Share it immediately,B. Report it without watching,C. Comment your opinion,D. Verify it from trusted sources,D
+4,mcq,8,Which of the following is a good cyber-awareness practice?,A. Accepting random video call invites,B. Clicking unknown links,C. Using strict privacy settings,D. Uploading all videos unfiltered,C
+4,mcq,9,What is the best way to verify if a controversial video is real?,A. Share it immediately to get others’ opinions,B. Edit the video to make it clearer,C. Assume it’s real if it has many views,D. Cross-check with trusted news sources or reverse image search,D
+4,mcq,10,Why should you avoid immediately believing sensational videos?,A. Deepfakes are often used to spread misinformation,B. Because all videos are fake,C. Videos cannot be manipulated,D. Only text-based news is reliable,A
