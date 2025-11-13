@@ -1,5 +1,5 @@
-Deepfake Interactive Learning Quiz Application
-
+**Deepfake Interactive Learning Quiz Application
+**
 The Deepfake Interactive Learning Quiz Application is a Java-based desktop application designed to raise awareness about the Deepfake technologies, creation techniques and the consequnces of misused that can contributed to real world problem. It having learning modules that combined with enaging timed quizzes to test user comprehension.
 
 Key Features:
