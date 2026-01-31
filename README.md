@@ -32,6 +32,6 @@ Custom GUI
 - Developed using Java Swing, using CardLayout to manage transitions between modules, quizzes and results screens. 
 
 ## How to run
-cd path/to/DeepfakeAwareness
-java -cp target\classes main.DeepfakeAwareness
+- cd path/to/DeepfakeAwareness
+- java -cp target\classes main.DeepfakeAwareness
 
